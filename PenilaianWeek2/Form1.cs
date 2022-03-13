@@ -19,9 +19,9 @@ namespace PenilaianWeek2
 
         private void ButtonProses_Click(object sender, EventArgs e)
         {
-            sistemKerja();
+            WorkSystem();
         }
-        public void sistemKerja()
+        public void WorkSystem()
         {
             //ketentuan isi
             string FirstTry = "";
